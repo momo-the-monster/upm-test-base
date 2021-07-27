@@ -2,7 +2,7 @@
 	"name" : "mmmlabs.upm.base",
 	"displayName" : "MMM Labs Base Test",
 	"version" : "1.0.0",
-	"unity" : "2018.4",
+	"unity" : "2019.4",
 	"description" : "Just a testy",
 	"dependencies" : {}
 }
